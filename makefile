@@ -1,0 +1,1 @@
+g++ code.cpp -o game.exe -DSFML_STATIC -I C:\SFML\include -L C:\SFML\lib -lsfml-graphics-s -lsfml-window-s -lsfml-system-s -lopengl32 -lwinmm -lgdi32 -lfreetype
